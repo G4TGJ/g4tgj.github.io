@@ -10,6 +10,10 @@ Initially, after returning, I was doing a lot of the data modes and became addic
 
 My main interest at the moment is home construction. If you work me on 40m I am probably using my homebrewed transceiver. I hope to document many of the circuits on this website.
 
+### Home brew
+
+As well as building radio equipment I am also home brew beer. As well as entries about radio I shall also be posting some beer recipes here.
+
 ### Equipment
 
 Current base equipment is a Yaesu FT450D with a 40m doublet. I still use the SEM Tranzmatch from 1983.

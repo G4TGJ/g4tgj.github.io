@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crimping coax connectors
-published: false
+published: true
 ---
 
 I used to really hate wiring up coax connectors. I'd decide I needed to wire up a lead for some purpose and order the plugs.
@@ -29,7 +29,7 @@ SOTA antennas.
 
 I've found the best tutorial for how to crimp connectors is this Youtube video:
 
-{% include youtubePlayer.html id=ktQVwfo-s9w %}
+{% include youtubePlayer.html id="ktQVwfo-s9w" %}
 
 CPC and all the other suppliers seem to stock a huge variety of connectors which seem to be very similar. I ordered some crimp BNC 
 connectors for RG58 and RG174 cable. I made a BNC to BNC lead with RG58 really quickly - I just had to fiddle with the wire stripping 
@@ -43,9 +43,10 @@ it jammed. A few minutes desperate Googling found how to release the tool. The c
 
 An email to CPC's technical support eventually got a reply saying it should work. In the meantime I'd done my own research and had found a datasheet for BNC plugs that are available for RG58 and RG174 cable that use exactly the same dies - and they were on my crimp tool. I actually found the datasheet on the RS website but bought the connectors from CPC. And they worked on the RG174 cable.
 
-The connectors are from TE Connectivity. The links are to CPC:
-|Coax type|Connector|
-|---------|---------|
-|RG58|[5-1634500-2](https://cpc.farnell.com/te-connectivity/5-1634500-2/plug-str-bnc-crimp-50r-rg58c-u/dp/CN10202)|
-|RG174|[5-1634500-1](https://cpc.farnell.com/te-connectivity/5-1634500-1/plug-str-bnc-crimp-50r-rg174a/dp/CN10204)|
+The connectors are manufactured by TE Connectivity.
+
+[5-1634500-2 for RG58](https://cpc.farnell.com/te-connectivity/5-1634500-2/plug-str-bnc-crimp-50r-rg58c-u/dp/CN10202)
+
+[5-1634500-1 for RG174](https://cpc.farnell.com/te-connectivity/5-1634500-1/plug-str-bnc-crimp-50r-rg174a/dp/CN10204)
+
 [Drawing and wiring info from RS.](https://pdl.designspark.com/api/v1/manufacturers/53f31a629b4759f8698ba80b/part/53f3285e9b4759f869acd252/55bfad6b8759c5ef5e8bf9f4/1.pdf)

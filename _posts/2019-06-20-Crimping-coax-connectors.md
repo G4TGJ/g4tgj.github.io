@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crimping coax connectors
-published: true
+published: false
 ---
 
 I used to really hate wiring up coax connectors. I'd decide I needed to wire up a lead for some purpose and order the plugs.

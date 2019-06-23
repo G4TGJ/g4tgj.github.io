@@ -55,6 +55,7 @@ wire and tie a figure of eight knot.
 2. Cut 4m of wire. At one end attach a crocodile clip, then fold back 20cm of wire and tie a figure of eight knot. At the other end
 fold back 10cm of wire and tie a figure of eight knot.
 3. Cut 20cm of cord. Use this to tie together the loops at the crocodile clip ends of the wires. I used bowline knots for this.
+![Crocodile clips and cord](images/_D307431.jpg)
 4. Cut 2.5m of cord. At one end fold back 10cm and tie a figure of eight knot to give a loop that can be used with a tent peg. 
 Tie the other end to the remaining loop of wire made in step 2. Again, a bowline knot is best.
 5. Cut 2m of wire and attach a banana plug (if using). This is the counterpoise.

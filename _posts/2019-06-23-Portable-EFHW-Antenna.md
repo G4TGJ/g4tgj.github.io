@@ -33,6 +33,7 @@ contacts on 30m but the SWR was similar to that on 20m and I was picked up by th
 The next job was to make it a permanent solution. I rewound the transformer (14 turns primary and 2 turns secondary) with 20swg enamelled
 wire and mounted it in a plastic box with two 4mm binding posts for the primary and a phono socket for the secondary. Note that there is
 no earth connection between primary and secondary.
+![EFHW transformer inside its box]({{ site.url }}/images/EFHW-inside.jpg)
 
 Further experimentation showed that although my SWR meter showed the same SWR on both bands the FT817’s own meter was not so happy on 
 30m. I also noticed that removing the external meter caused the FT817 to see higher SWR. I experimented with longer counterpoises and

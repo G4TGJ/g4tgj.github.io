@@ -4,7 +4,7 @@ title:  SOTA 20m Dipole vs EFHW
 published: true
 ---
 
-I've now tried the [20m dipole](SOTA-20M-Dipole) on a couple of SOTA activations. So how does it compare to 
+I've now tried the [20m dipole](SOTA-20m-Dipole) on a couple of SOTA activations. So how does it compare to 
 the [EFHW](Portable-EFHW-Antenna)? It works, but I felt it didn't offer any benefit over the EFHW. Of course, this is not a fair comparison.
 I didn't use the antennas side-by-side so location and propagation would have had a huge influence on my observations. I just didn't feel like
 I was getting as many QSOs as I do with the EFHW. There are also some practical advantages in favour of the EFHW.

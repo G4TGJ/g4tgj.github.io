@@ -4,7 +4,7 @@ title:  SOTA 20m Dipole
 published: true
 ---
 
-I have had a lot of success with my [EFHW antennas](Portable-EFHW-Antenna) for SOTA activations but discussion on the RSGB Technical
+I have had a lot of success with my [EFHW antennas](/Portable-EFHW-Antenna) for SOTA activations but discussion on the RSGB Technical
 Forum made me wonder if the 
 matching transformer was too lossy. If it is open- or short-circuited you would hope for an infinite SWR, although in practice 10:1 would
 be good. I was getting around 2.5:1 when 

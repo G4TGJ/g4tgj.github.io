@@ -31,7 +31,7 @@ Reading the state of A and B on each transition gives the following for clockwis
 My first code to handle this was simple. I noticed that A is 1 for two transitions and on the second the state of B indicates 
 whether movemement is CW or CCW. This led to the following code snippet:
 
-```C
+```c
 if( (bRotaryA != prevbRotaryA) || (bRotaryB != prevbRotaryB) )
 {
     if( prevbRotaryA && bRotaryA )
@@ -59,7 +59,7 @@ some debouncing.
 
 The solution was to count both A and B pulses and only register movement when there were two pulses on each:
 
-```C
+```c
 // Only do something with the rotary control if there is a change
 if( (bRotaryA != prevbRotaryA) ||
     (bRotaryB != prevbRotaryB) )

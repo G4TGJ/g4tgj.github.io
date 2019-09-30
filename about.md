@@ -12,7 +12,7 @@ My main interest at the moment is home construction. If you work me on 40m I am 
 
 ### Home brew
 
-As well as building radio equipment I am also home brew beer. As well as entries about radio I shall also be posting some beer recipes here.
+As well as home brewing radio equipment I also home brew beer. I shall post some beer recipes here.
 
 ### Equipment
 

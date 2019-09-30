@@ -15,15 +15,18 @@ This diagram is from [Wikipedia](https://en.wikipedia.org/wiki/Rotary_encoder).
 
 Reading the state of A and B on each transition gives the following for clockwise and counter-clockwise:
 
+
 |CW||||||
 |-|-|-|-|-|-|
 |A|0|1|1|0|0|
 |B|0|0|1|1|0|
 
+
 |CCW||||||
 |-|-|-|-|-|-|
 |A|0|0|1|1|0|
 |B|0|1|1|0|0|
+
 
 My first code to handle this was simple. I noticed that A is 1 for two transitions and on the second the state of B indicates 
 whether movemement is CW or CCW. This led to the following code snippet:

@@ -25,6 +25,6 @@ I then realised what was happening. On key up, if the TX clock is switched off e
 Increasing the time that the TX clock is on after key up fixes the problem:
 
 ![Improved key down waveform](/images/pic_176_11.bmp)
-![Improved key up waveform](/images/pic_176_12.bmp)
+![Improved key up waveform](/images/pic_176_13.bmp)
 
 The transitions are too slow but at least I've finally understood the problem. I can now work on getting the correct component values.

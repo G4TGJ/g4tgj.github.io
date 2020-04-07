@@ -5,8 +5,8 @@ published: false
 ---
 
 During these difficult coronavirus times I seem to be as busy as ever. I am lucky enough to still have a job that I can do from home, 
-plus I have two daughters who need help with their home schooling. And the good weather means we are spending lots of time in the garden 
-- it might actually look tidy soon. However, I have decided to do some lockdown projects and here is my first, a morse keyer.
+plus I have two daughters who need help with their home schooling. And the good weather means we are spending lots of time in 
+the garden - it might actually look tidy soon. However, I have decided to do some lockdown projects and here is my first, a morse keyer.
 
 ![Morse Keyer Photo](/images/MorseKeyer.jpg)
 

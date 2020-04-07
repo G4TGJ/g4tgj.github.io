@@ -27,4 +27,16 @@ discharges and its internal resistance rises. C1 should be placed close to U1.
 J1 is the header for ISP (In-system programming). This is needed to program the ATTiny. If you have the means to program the chip
 externally you could omit this, but it makes life a lot easier while developing the software. See later for more on programming.
 
+J2 is a 3.5mm stereo jack socket for the paddle, with the standard wiring of tip for dot and sleeve for dash. J3 is a 3.5mm jack socket
+for keying the transmitter. I've used a stereo jack so that I can connect the keyer to my transmitters which use stereo connectors. You
+can use a mono jack which actually makes more sense since the transmitters only use stereo connectors as they already contain a keyer
+in which case why do you need an external keyer!
 
+SW1 selects the speed from two choices defined in the software. In the current software these are 16wpm and 20wpm but if you want
+different values then it is easy to rebuild the code. I shall probably make it easier to change these through the EEPROM in a future
+version of software.
+
+R1, R2 and Q1 form a switch to ground the key out line and hence key the transmitter. Q1 is a 2N7000 MOSFET but almost any N-channel
+device could be used here. If you are using the keyer with an old valve transmitter you will need to choose a device that can handle
+the voltage on the key line. R1 and R2 are not strictly necessary but R1 limits the current if there is a fault in Q1 and protects U1.
+R2 guarantees that Q1 is off if the power is disconnected (a MOSFET's gate will hold its charge otherwise).

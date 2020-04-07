@@ -8,7 +8,12 @@ During these difficult coronavirus times I seem to be as busy as ever. I am luck
 plus I have two daughters who need help with their home schooling. And the good weather means we are spending lots of time in the garden -
 it might actually look tidy soon. However, I have decided to do some lockdown projects and here is my first, a morse keyer.
 
-![Morse Keyer Photo](/images/MorseKeyerPhoto.png)
+![Morse Keyer Photo](/images/MorseKeyer.jpg)
+
+This shows the keyer with its casing - a pill tub (although it would have contained a beer home brewing ingredient) and a Palm Mini 
+Paddle.
+
+![Morse Keyer Photo](/images/MorseKeyer2.jpg)
 
 It is a very simple circuit as it uses an ATTiny85-20PU microcontroller which actually packs in a lot in its 8 pin package costing about 
 a pound. Most of the work is in the software but I had already written a keyer for my transceiver project (which I will publish here
@@ -76,6 +81,8 @@ Note that I may change the software so there is only one version - the release n
 To program the ATTiny via the ISP header I use a USBasp programmer which is very cheaply available (about 3 pounds). Note that this has 
 a 10 pin header so I also have a 10 to 6 pin adapter. It's also possible to use an Arduino for the programming - instructions are
 easily found on the web.
+
+![Morse Keyer Photo](/images/MorseKeyer3.jpg)
 
 The tool that does the actual programming is [avrdude](https://www.nongnu.org/avrdude/) which is a command-line program but it's much
 easier to use a GUI front end. It's

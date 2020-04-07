@@ -40,3 +40,23 @@ R1, R2 and Q1 form a switch to ground the key out line and hence key the transmi
 device could be used here. If you are using the keyer with an old valve transmitter you will need to choose a device that can handle
 the voltage on the key line. R1 and R2 are not strictly necessary but R1 limits the current if there is a fault in Q1 and protects U1.
 R2 guarantees that Q1 is off if the power is disconnected (a MOSFET's gate will hold its charge otherwise).
+
+## Software
+
+I have released the source code under the GPL at [github](https://github.com/G4TGJ/MorseKeyer). It is built using Atmel Studio 7 which
+is only available for Windows. I will add Linux builds soon.
+
+There are also pre-built hex files
+ready for programming the ATTiny - there are versions for Iambic A, Iambic B and Ultimatic. The two speeds supported are 16wpm and
+20wpm. These hex files are available under the Releases tab. 
+
+For the source code you can either download a zip file of a release or
+clone the git repository.
+
+Note that I may change the software so there is only one version - the release notes will give details.
+
+## Programming
+
+To program the ATTiny via the ISP header I use a USBasp programmer which is very cheaply available (about 3 pounds). Note that this has 
+a 10 pin header so I also have a 10 to 6 pin adapter. It's also possible to use an Arduino for the programming - instructions are
+easily found on the web.

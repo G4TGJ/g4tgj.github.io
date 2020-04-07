@@ -75,7 +75,7 @@ the source at Github.
 
 There are also pre-built hex files
 ready for programming the ATTiny - there are versions for Iambic A, Iambic B and Ultimatic. The two speeds supported are 16wpm and
-20wpm. These hex files are available under the Releases tab. 
+20wpm. These hex files are available under the [Releases tab](https://github.com/G4TGJ/MorseKeyer/releases). 
 
 For the source code you can either download a zip file of a release or
 clone the git repository.

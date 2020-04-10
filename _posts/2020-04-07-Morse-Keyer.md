@@ -4,6 +4,8 @@ title:  Morse Keyer
 published: true
 ---
 
+**Update 10/4/2020:** I have released v1.1 of the software to set the configuration from EEPROM. See [this update](https://g4tgj.github.io/Morse-Keyer-2/).
+
 During these difficult coronavirus times I seem to be as busy as ever. I am lucky enough to still have a job that I can do from home, 
 plus I have two daughters who need help with their home schooling. And the good weather means we are spending lots of time in 
 the garden - it might actually look tidy soon. However, I have decided to do some lockdown projects and here is my first, a morse keyer.

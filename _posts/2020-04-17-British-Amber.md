@@ -32,6 +32,7 @@ Grain|EBC|Weight|%|
 |Roast barley|1300|38g|1%|
 |Crystal malt|150|187g|5%|
 
+
 |Hop|Alpha|Weight|Time|
 |---|-----|------|----|
 |Summit|19.1%|11g|60min|

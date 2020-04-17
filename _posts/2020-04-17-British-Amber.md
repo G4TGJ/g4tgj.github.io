@@ -42,6 +42,7 @@ Grain|EBC|Weight|%|
 |Summit|19.1%|11g|-15min|
 |Mosaic|12%|12g|-15min|
 |Challenger|8.2%|15g|-15min|
+
 -15min means 15 minutes after flame out.
 Leave to steep for 30min.
 

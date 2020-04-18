@@ -10,6 +10,9 @@ nice it is, especially when served through a traditional beer engine.
 Although I've called it British it is a mixture of British and Canadian malt and British and American hops. The yeast is distinctly 
 British though (although via Oregon!).
 
+Edit: I forgot to make it clear this is a BIAB (brew in a bag) recipe. It can be brewed with 3-vessel and other forms of AG (all grain)
+equipment but you'll need to adjust the ingredients for your equipment. I use the [BIABacus spreadsheet](https://www.biabrewer.info/).
+
 |British Amber||
 | ---|---- |
 |OG:| 1.046|

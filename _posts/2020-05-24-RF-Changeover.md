@@ -39,3 +39,6 @@ Here's the finished circuit in its box. I put the power socket opposite the rece
 size - the box is too narrow for the reamer to go in the hole far enough, unless there is a hole the other side.
 
 ![RF Changeover Photo](/images/RFChangeover3.jpg)
+
+It doesn't provided perfect isolation between the receiver and transmitter - the transmitted signal is still audible in the receiver 
+but it isn't unbearably loud and works perfectly as a sidetone.

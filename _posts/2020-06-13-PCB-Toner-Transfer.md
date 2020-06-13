@@ -10,16 +10,25 @@ not practical with ICs or for circuits of any size. So I have started making my 
 
 I've been using KiCad's Eeschema for some time for drawing schematics and so it didn't take me too long to get up to speed with Pcbnew
 which is the KiCad PCB software. Considering it is free I am very impressed. But the layout needs to be transferred to the copper clad
-board before it can be etched. The easiest way is to directly transfer laser printer toner to the board and use this as the etch resist.
+board before it can be etched. The professional way to do this is to print on acetate (such as overhead projector transparencies) and
+then expose a photo resist board to UV light. But the toner from a laser printer works as a resist and if this is transferred to the
+copper clad board it makes the process much simpler.
 
-Only works with laser not ink jet.
+Laser printer toner is plastic dust that is fused to the paper with heat. This can be transferred to the PCB using either heat or
+chemicals. This cannot be done with an ink jet printer since these do not use toner.
+
+There are tw0 variables in the process which make the process somewhat hit or miss. Apparently Brother laser toner and many third party
+toners do not work. But then there are just as many online reports that they work fine. The choice of paper is crucial too. Ordinary
+copier paper absorbs too much of the toner making it difficult to get a clear transfer. The paper needs to have some gloss and so many
+are using paper from a magazine - cut out a piece a bit bigger than the PCB and tape it to a sheet of normal printer paper and manually
+feed it through the printer. The heat or chemicals will transfer the laser toner but not touch the magazine ink.
 Cut out the paper and tape to printer paper - masking tape, 3M Magic tape or Kapton tape.
 
 I was initially inspired by [this youtube video](https://www.youtube.com/watch?v=cVhSCEPINpM&t=325s) showing how nail varnish remover
 can be used to transfer the toner from a printout on
 magazine paper. I tried this with various papers (Radcom, Radio Times, Which?) but all I
-got was a big black smudge. My nail varnish remover (well my wife's) is 98% acetone and this dissolves the toner. The brand used in the
-video has a long list of ingredients and it appears that alcohol is the other key ingredient. There are other videos (such as 
+got was a big black smudge. My nail varnish remover (well my wife's) is 98% acetone and this just dissolves the toner. The brand used in 
+the video has a long list of ingredients and it appears that alcohol is the other key ingredient. There are other videos (such as 
 [this one](https://www.youtube.com/watch?v=rMJM_nwUZAI)) showing that a ratio
 of 3 parts acetone to 8 parts alcohol (ethyl or iso-propyl) is the best to use. I only had 70% IPA and I tried this but got no transfer
 at all - presumably too much water. Other comments suggest that a 1:1 mix of acetone and water works but I didn't try this.

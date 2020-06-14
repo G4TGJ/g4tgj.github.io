@@ -51,8 +51,8 @@ came just as I gave up on the chemical transfer. The instructions say to use on 
 between 1.5 and 4 minutes. I set the iron to 2 and held it on the board, without moving, for 2 minutes and then spent the next 2 minutes
 ironing all over the board in an attempt to get the toner to transfer properly this time. After a total of 4 minutes I ran the board
 under the tap and peeled off the paper. To my delight the toner had transferred perfectly. In fact, it isn't just the toner that
-transfers but the blue from the paper (which feels more like plastic) also. I'd ironed the board enough times by now to realise that
-wearing oven gloves is a good idea so that I could hold onto the board while ironing it. Not surprisingly it gets very hot!
+transfers but the blue from the paper (which feels more like plastic) also. I wore oven gloves this time so that I could hold onto the 
+board while ironing it. Not surprisingly it gets very hot!
 After etching in ferric chloride I had a perfect PCB.
 
 Clearly some people are having great success with using photo or magazine paper to do toner transfer but there seem to be too many 

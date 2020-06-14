@@ -61,10 +61,10 @@ you are lucky, or are prepared to spend a long timer experimenting, then you mig
 for a 'proper' product such as
 Press n Peel. At about £3 per letter size sheet (close to A4) it seems very expensive. But since I only need to cut a piece out which
 is slightly larger than the PCB the 5 sheets I bought should last a long time. I used masking tape to stick the Press n Peel to the
-printer paper but others use 3M Magic Tape and Kapton tape.
+printer paper but others use 3M Magic Tape or Kapton tape.
 
 There are a couple of other toner transfer products that might also be worth trying: [Pulsar](https://pcbfx.com/) and a cheap
 yellow transfer paper available from eBay.
 
 Finally, I should point out that you can only do toner transfer with a laser printer and not with an inkjet. Laser printer toner is 
-plastic dust that is fused to the paper with heat. An ink jet printer does not use toner.
+plastic dust that the printer fuses to the paper with heat. An ink jet printer does not use toner.

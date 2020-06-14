@@ -14,6 +14,7 @@ board before it can be etched. The "proper" way to do this is to print on acetat
 then expose a photo resist board to UV light. But the toner from a laser printer works as a resist and if this is directly transferred 
 to the copper clad board it makes the process much simpler and cheaper.
 
+The transfer can be done using either heat or chemicals but neither method is completely reliable.
 There are two variables in the process which make it somewhat hit or miss. Apparently Brother laser toner and many third party
 toners do not work. But then there are just as many online reports that they work fine. The choice of paper is crucial too. Ordinary
 copier paper absorbs too much of the toner making it difficult to get a clear transfer. The paper needs to have some gloss - laser

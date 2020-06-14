@@ -29,7 +29,7 @@ got was a big black smudge. My nail varnish remover (well my wife's) is 98% acet
 the video has a long list of ingredients and it appears that alcohol is the other key ingredient. There are other videos (such as 
 [this one](https://www.youtube.com/watch?v=rMJM_nwUZAI)) showing that a ratio
 of 3 parts acetone to 8 parts alcohol (ethyl or iso-propyl) is the best to use. I only had 70% IPA and I tried this but got no transfer
-at all - presumably too much water. Other comments suggest that a 1:1 mix of acetone and water works but I haven't tried this. In this
+at all - presumably too much water. Other comments suggest that a 1:1 mix of acetone and water works but I haven't tried this. In the
 video he uses laser photo paper so this may also be a key ingredient of his success. I have lots of inkjet photo paper but I daren't
 run this through the laser printer in case the heat from the drum melts it.
 

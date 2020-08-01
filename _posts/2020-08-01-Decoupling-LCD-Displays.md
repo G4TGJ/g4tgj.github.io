@@ -22,5 +22,7 @@ capacitors. It was almost eliminated by adding 1000uF to the 12V input - this dr
 adding 0.1uF (1uF also worked) across VDD and VSS on the LCD module itself. I did also try 100uF on the 12V supply but this only partially helped. Although the 1000uF made a
 huge difference, the smaller ceramic on the LCD supply was also needed.
 
+I have C drivers for LCD displays (both directly connected and I2C) in my [TARL](https://github.com/G4TGJ/TARL) library.
+
 <sup>1</sup>The LCD module has 11 I/O pins but the RW pin is tied to ground as we never need to read from the display. It has 8 data pins but can be used in a 4 pin mode (this 
 seems to be universal).

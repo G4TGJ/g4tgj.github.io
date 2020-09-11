@@ -29,3 +29,6 @@ on a daughter board along with a rotary encoder and an I2C LCD:
 ![ATtiny3216 breadboard](/images/FG3216.jpg)
 
 The ATtiny817 Xplained Mini is providing 5V from its USB connection along with UPDI for programming the ATtiny3216.
+
+To enable programming of any device via the ATtiny817 Xplained Mini you need to go to _Tools/Device Programming_ in Atmel Studio and select the settings button at the right.
+From here go to _Tools/Tool settings_ and set _Hide unsupported devices_ to _False_.
